@@ -129,4 +129,5 @@ feed:
   content_limit_delim: ' '
   order_by: -date
   
-  
+Plugins:
+- hexo-generator-cname 
