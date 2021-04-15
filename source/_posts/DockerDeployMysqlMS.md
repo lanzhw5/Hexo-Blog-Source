@@ -1,7 +1,8 @@
 ---
 title: Docker部署MySQL主从
 date: 2021-04-15 21:27:45
-tags:db
+tags: db
+
 ---
 
 一、安装基础环境及mysql
